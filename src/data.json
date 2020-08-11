@@ -1,0 +1,55 @@
+{ "data" : [
+
+    {
+        "id": 1,
+        "category":"advertisement",
+        "title": "please subscribe to view more exclusive contents.",
+        "image": "require('./assets/malls-tenants-innovation-Simon-retail.jpg') "
+
+    },
+
+    {
+        "id": 2,
+        "category":"advertisement",
+        "title": "2 months for only Rm 15.90 for offline movies",
+        "image": "require('./assets/malls-tenants-innovation-Simon-retail.jpg') "
+
+    },
+    {
+        "id": 3,
+        "category":"Science Friction",
+        "title": "Blade Runner Future 2049",
+        "image": "require('./assets/Blade_Runner_2049_poster.png') ",
+        "rating": 4.0
+
+    },
+    {
+        "id": 4,
+        "category":"Science Friction",
+        "title": "Captain American Civil War",
+        "image": "require('./assets/captain-amarican.jpg') ",
+        "rating": 3.5
+
+    },
+    {
+        "id": 5,
+        "category":"Romance",
+        "title": "Beauty and the Beast",
+        "image": "require('./assets/maxresdefault.jpg') ",
+        "rating": 2.5
+
+    },
+    {
+        "id": 6,
+        "category":"DRAMA",
+        "title": "Shawshank Redemprtion",
+        "image": "require('./assets/images.jpg') ",
+        "rating": 3.0
+
+    }
+    
+
+
+
+]
+}
